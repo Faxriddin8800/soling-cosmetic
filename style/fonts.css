@@ -1,0 +1,15 @@
+@font-face{
+    font-family: 'Opensans-Light';
+    src: url(../fonts/OpenSans-Light.ttf);
+    font-weight: 300;
+}
+@font-face{
+    font-family: 'Opensans-Regular';
+    src: url(../fonts/OpenSans-Regular.ttf);
+    font-weight: 300;
+}
+@font-face{
+    font-family: 'Opensans-Conden';
+    src: url(../fonts/OpenSans_Condensed-Light.ttf);
+    font-weight: 300;
+}
